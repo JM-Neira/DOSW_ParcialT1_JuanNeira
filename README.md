@@ -6,5 +6,8 @@ repositorio para el parcial del primer semestre de dosw
 1. Realice el diagrama de contexto con las generalidades de su sistema.
 (Añadirlo al README.md)
 
-![Diagrama de contexto](./images/DiagramaDeContexto.png")
+![Diagrama de contexto](./docs/images/DiagramaDeContexto.png")
 
+factory mediator
+
+creacional comportamiento
