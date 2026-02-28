@@ -8,9 +8,6 @@ repositorio para el parcial del primer semestre de dosw
 
 ![Diagrama de contexto](./docs/images/DiagramaDeContexto.png)
 
-factory mediator
-
-creacional comportamiento
 # segundo punto
 2. Identifique 2 patrones de diseño que puedan aplicarse al caso de estudio,
 especificando por cada uno:
@@ -25,4 +22,3 @@ c. Justificación de la decisión.
 2a. mediator
 2b. comportamental
 2c. se usa mediator para poder facilitar el codigo a la hora de manejar el comportamiento de los componentes del programa pues todo tienen reglas de negocio diferentes las cuales si se intentan codificar todas por aparte sin un mediador muchos de los componentes causan caos en el programa por lo cual el mediador nos ayudara a manejar este caos que se puede generar
- 
